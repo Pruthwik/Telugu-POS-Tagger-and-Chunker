@@ -1,0 +1,33 @@
+స్వచ్ఛందంగా	RB	B-RBP
+ఎవరికి	PR_PRL	B-NP
+వారు	PR_PRP	B-NP
+తమకు	PR_PRP	B-NP
+తెలిసిన	V_VM_VNF	B-VGNF
+సమాచారాన్ని	N_NN	B-NP
+లిఖిత	JJ	B-NP
+ఆధారాలతో	N_NN	I-NP
+ఒక	QT_QTC	B-NP
+చోట	N_NN	I-NP
+చేర్చగలగటం	V_VM_VNG	B-VGNN
+,	RD_PUNC	I-VGNN
+మార్చగలగటం	V_VM_VNG	B-VGNN
+అనే	CC_CCS	B-CCP
+ఊహకు	N_NN	B-NP
+రూపమే	N_NN	B-NP
+ఇది	PR_PRP	B-NP
+.	RD_PUNC	B-BLK
+	
+వెన్న	N_NN	B-NP
+నాగార్జున	N_NN	B-NP
+ప్రారంభ	N_NN	B-NP
+కృషి	N_NN	B-NP
+చేయగా	V_VM_VNF	B-VGNF
+,	RD_PUNC	I-VGNF
+దీనిలో	PR_PRP	B-NP
+చాలామంది	QT_QTF	B-JJP
+సభ్యులై	V_VM_VNF	B-VGNF
+అభివృద్ధి	N_NN	B-NP
+పథంలో	N_NN	B-NP
+నడిపించారు	V_VM_VF	B-VGF
+.	RD_PUNC	B-BLK
+	
