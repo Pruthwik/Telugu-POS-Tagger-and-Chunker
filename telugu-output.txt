@@ -1,5 +1,5 @@
 స్వచ్ఛందంగా	RB	B-RBP
-ఎవరికి	PR_PRL	B-NP
+ఎవరికి	PR_PRP	B-NP
 వారు	PR_PRP	B-NP
 తమకు	PR_PRP	B-NP
 తెలిసిన	V_VM_VNF	B-VGNF
@@ -24,8 +24,8 @@
 చేయగా	V_VM_VNF	B-VGNF
 ,	RD_PUNC	I-VGNF
 దీనిలో	PR_PRP	B-NP
-చాలామంది	QT_QTF	B-JJP
-సభ్యులై	V_VM_VNF	B-VGNF
+చాలామంది	V_VM_VNF	B-VGNF
+సభ్యులై	N_NN	B-NP
 అభివృద్ధి	N_NN	B-NP
 పథంలో	N_NN	B-NP
 నడిపించారు	V_VM_VF	B-VGF
